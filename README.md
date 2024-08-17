@@ -10,12 +10,14 @@
 </p>
 <br />
 
+<h2 align="center">Redes/Contactos</h2>
+
 <p align="center">
   <a href="https://github.com/vFurius" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="28" alt="Instagram"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="50" alt="Instagram"/>
   </a>
   <a href="https://x.com/vfurius_" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/X_logo_2023.svg/800px-X_logo_2023.svg.png" width="28" alt="Twitter"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/X_logo_2023.svg/800px-X_logo_2023.svg.png" width="50" alt="X"/>
   </a>
 </p>
 
